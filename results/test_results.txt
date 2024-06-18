@@ -1,2 +1,0 @@
-T-test result for Grip Strength between Frailty groups (N and Y):
-TtestResult(statistic=1.5303334194571003, pvalue=0.1644646461051128, df=8.0)
